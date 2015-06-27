@@ -1,0 +1,29 @@
+{
+ "sections": [
+  {
+   "id": "6a368829-d4d6-1d69-93ac-83ff9a3211cc",
+   "title": "  Overview",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/--Overview-6a36.md"
+  },
+  {
+   "id": "de99b915-8243-7db5-a59c-f39dc90512b",
+   "title": "Assignment Steps",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Assignment-Steps-de99.md"
+  }
+ ],
+ "theme": "paper",
+ "scripts": []
+}
